@@ -1,0 +1,9 @@
+body
+{ background-color:#3E22CB;
+}
+#Paragraph1
+{
+  color:red;
+  border-style: dashed;
+  border-color: green;
+}
