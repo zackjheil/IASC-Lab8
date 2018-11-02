@@ -1,3 +1,10 @@
+#BigBlackBorder
+{
+  border-style:solid;
+  border-color:black;
+  padding:20px;
+}
+
 body
 { background-color:#3E22CB;
 }
@@ -6,4 +13,41 @@ body
   color:red;
   border-style: dashed;
   border-color: green;
+}
+#Boomer
+{
+  padding: 30px;
+}
+#Boomer1
+{
+border-top: dashed;
+width: 18%;
+position: absolute;
+top: 450px;
+border-color: yellow;
+}
+#Boomer2
+{
+border-left: dashed;
+position: absolute;
+height: 48%;
+top:93px;
+border-color: yellow;
+}
+#Boomer3
+{
+border-top: dashed;
+width: 18%;
+position: absolute;
+top: 93px;
+border-color: yellow;
+}
+#Boomer4
+{
+border-right: dashed;
+height: 48%;
+position: absolute;
+top: 93px;
+left:307px;
+border-color: yellow;
 }
