@@ -1,0 +1,21 @@
+body
+{
+background-color: green;
+}
+#Border
+{
+  border-style: dashed;
+  padding:20px;
+}
+#First
+{
+  color: red;
+}
+#Second
+{
+  color:forestgreen;
+}
+#Third
+{
+  color:purple;
+}

@@ -1,0 +1,66 @@
+#Content
+{
+  border-style: dashed;
+  border-color: purple;
+  padding: 70px;
+}
+#Text
+{
+  text-align: center;
+  position: relative;
+  top:65px;
+}
+#Green
+{
+  text-align: center;
+  position: relative;
+  top:1px;
+  color: green;
+  font-size: 15%;
+}
+#Than
+{
+  color:red;
+  position:absolute;
+  top:270px;
+  left:93px;
+  font-size: 20pt;
+}
+#NoThan
+{
+color: orange;
+position: absolute;
+top: 285px;
+left:25px;
+font-size: 20pt;
+}
+#Orange
+{
+  color: Orange;
+  position: absolute;
+  top: 285px;
+  left: 140px;
+  font-size: 20pt;
+}
+#I
+{
+  color: purple;
+  position:absolute;
+  right:250px;
+  top: 400px;
+}
+#Believe
+{
+  color:purple;
+  position: absolute;
+  right: 50px;
+  top: 400px;
+}
+#CAN
+{
+  color: yellow;
+  position: absolute;
+  right: 197px;
+  top: 400px;
+
+}
